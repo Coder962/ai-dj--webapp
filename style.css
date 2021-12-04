@@ -89,6 +89,7 @@ animation: move-wave 3s;
 h1 {
   font-size:3rem;
 }
-#canvas {
-font-style: italic;
+canvas {
+  border:5px solid white;
+  border-radius:20px;
 }
